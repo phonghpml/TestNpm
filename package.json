@@ -1,0 +1,19 @@
+{
+  "name": "phong2999",
+  "version": "1.0.0",
+  "description": "test npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/phonghpml/TestNpm.git"
+  },
+  "author": "phonghp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phonghpml/TestNpm/issues"
+  },
+  "homepage": "https://github.com/phonghpml/TestNpm#readme"
+}
