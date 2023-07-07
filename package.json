@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/phonghpml/TestNpm/issues"
   },
-  "homepage": "https://github.com/phonghpml/TestNpm#readme"
+  "homepage": "https://github.com/phonghpml/TestNpm#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
 }
